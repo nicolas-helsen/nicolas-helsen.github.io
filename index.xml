@@ -2,30 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIP Site</title>
-    <link>http://localhost:1313/</link>
+    <link>http://nicolas-helsen.github.io:1313/</link>
     <description>Recent content on GIP Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Oct 2015 11:17:27 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://nicolas-helsen.github.io:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Autobiography</title>
-      <link>http://localhost:1313/english/Autobiography/</link>
+      <link>http://nicolas-helsen.github.io:1313/english/Autobiography/</link>
       <pubDate>Mon, 19 Oct 2015 11:17:27 +0200</pubDate>
       
-      <guid>http://localhost:1313/english/Autobiography/</guid>
-      <description>&lt;p&gt;hello
-qsfsqfqsfqsfsq&lt;/p&gt;
+      <guid>http://nicolas-helsen.github.io:1313/english/Autobiography/</guid>
+      <description>&lt;p&gt;hello&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>First_Post</title>
-      <link>http://localhost:1313/Posts/First_Post/</link>
+      <link>http://nicolas-helsen.github.io:1313/Posts/First_Post/</link>
       <pubDate>Thu, 24 Sep 2015 15:21:39 +0200</pubDate>
       
-      <guid>http://localhost:1313/Posts/First_Post/</guid>
+      <guid>http://nicolas-helsen.github.io:1313/Posts/First_Post/</guid>
       <description>
 
 &lt;h1 id=&#34;first-word:f37d3efe72bc2ae90bef75c68e337c54&#34;&gt;First Word&lt;/h1&gt;
@@ -36,10 +35,168 @@ qsfsqfqsfqsfsq&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://nicolas-helsen.github.io:1313/Posts/First_Post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://nicolas-helsen.github.io:1313/Posts/First_Post/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en-us&#34;&gt;
+    &lt;head&gt;
+        
+&lt;meta charset=&#34;utf-8&#34;&gt;
+&lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+&lt;meta name=&#34;author&#34; content=&#34;Nicolas Helsen&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Your description&#34;&gt;
+&lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.14&#34; /&gt;
+&lt;title&gt;GIP Nicolas Helsen 2015-2016&lt;/title&gt;
+&lt;!-- Bootstrap Core CSS --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/bootstrap.min.css&#34; type=&#34;text/css&#34;&gt;
+&lt;!-- Custom Fonts --&gt;
+&lt;link href=&#39;https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#39; rel=&#39;stylesheet&#39; type=&#39;text/css&#39;&gt;
+&lt;link href=&#39;https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic&#39; rel=&#39;stylesheet&#39; type=&#39;text/css&#39;&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/font-awesome/css/font-awesome.min.css&#34; type=&#34;text/css&#34;&gt;
+&lt;!-- Plugin CSS --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/animate.min.css&#34; type=&#34;text/css&#34;&gt;
+&lt;!-- Custom CSS --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/creative.css&#34; type=&#34;text/css&#34;&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/modals.css&#34; type=&#34;text/css&#34;&gt;
+&lt;!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --&gt;
+&lt;!-- WARNING: Respond.js doesn&#39;t work if you view the page via file:// --&gt;
+&lt;!--[if lt IE 9]&gt;
+        &lt;script src=&#34;https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js&#34;&gt;&lt;/script&gt;
+        &lt;script src=&#34;https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js&#34;&gt;&lt;/script&gt;
+&lt;![endif]--&gt;
+&lt;style&gt;
+	.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+&lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body id=&#34;page-top&#34;&gt;
+
+        &lt;!-- NAVIGATION --&gt;
+&lt;nav id=&#34;mainNav&#34; class=&#34;navbar navbar-default navbar-fixed-top&#34;&gt;
+    &lt;div class=&#34;container-fluid&#34;&gt;
+        &lt;!-- Brand and toggle get grouped for better mobile display --&gt;
+        &lt;div class=&#34;navbar-header&#34;&gt;
+            &lt;button type=&#34;button&#34; class=&#34;navbar-toggle collapsed&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#bs-example-navbar-collapse-1&#34;&gt;
+                &lt;span class=&#34;sr-only&#34;&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class=&#34;icon-bar&#34;&gt;&lt;/span&gt;
+                &lt;span class=&#34;icon-bar&#34;&gt;&lt;/span&gt;
+                &lt;span class=&#34;icon-bar&#34;&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a class=&#34;navbar-brand page-scroll&#34; href=&#34;#page-top&#34;&gt;Workflow&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;!-- Collect the nav links, forms, and other content for toggling --&gt;
+        &lt;div class=&#34;collapse navbar-collapse&#34; id=&#34;bs-example-navbar-collapse-1&#34;&gt;
+            &lt;ul class=&#34;nav navbar-nav navbar-right&#34;&gt;
+                &lt;li&gt;
+                    &lt;a class=&#34;page-scroll&#34; href=&#34;../../#&#34;&gt;Home&lt;/a&gt;
+                &lt;/li&gt;
+
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+    &lt;!-- /.container-fluid --&gt;
+&lt;/nav&gt;
+
+
+        &lt;!-- ABOUT --&gt;
+&lt;section class=&#34;bg-dark&#34; id=&#34;about&#34;&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+		&lt;div class=&#34;col-lg-8 col-lg-offset-2 text-center&#34;&gt;
+                &lt;h2 class=&#34;section-heading&#34;&gt;Over Hugo&lt;/h2&gt;
+                &lt;hr class=&#34;primary&#34;&gt;
+		&lt;div class=&#34;container&#34;&gt;
+		&lt;div class=&#34;row&#34;&gt;
+			&lt;div class=&#34;col-lg-4 col-md-6 text-center&#34;&gt;
+				&lt;div class=&#34;service-box&#34;&gt;
+					
+					&lt;h3&gt;Positief&lt;/h3&gt;
+					&lt;p class=&#34;text-faded&#34;&gt;
+						&lt;li class=&#34;text-faded&#34;&gt;Makkelijk te hosten&lt;/li&gt;
+						&lt;li class=&#34;text-faded&#34;&gt;Real-Time changes&lt;/li&gt;
+						&lt;li class=&#34;text-faded&#34;&gt;Makkelijk om posts to te voegen&lt;/li&gt;
+						&lt;li class=&#34;text-faded&#34;&gt;Oneindige opties voor de layout&lt;/li&gt;
+					&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+				&lt;div class=&#34;col-lg-4 col-md-6 text-center&#34;&gt;
+					&lt;div class=&#34;service-box&#34;&gt;
+						&lt;h3&gt;Negatief&lt;/h3&gt;
+						&lt;p class=&#34;text-faded&#34;&gt;
+							&lt;li class=&#34;text-faded&#34;&gt;De partials maken het moeilijk om iet terug te vinden&lt;/li&gt;
+							&lt;li class=&#34;text-faded&#34;&gt;Hugo is vrij lastig, maar dit hangt van thema tot thema af&lt;/li&gt;
+							&lt;li class=&#34;text-faded&#34;&gt;Hugo weigert soms wel dingen aan te passen&lt;/li&gt;
+							
+						&lt;/p&gt;
+					&lt;/div&gt;
+					
+				&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+		&lt;/br&gt;
+			&lt;h2 class=&#34;section-heading&#34;&gt;Conclusie&lt;/h2&gt;
+            &lt;hr class=&#34;primary&#34;&gt;
+			&lt;h4 class=&#34;text-faded text-center&#34;&gt;Al bij al is Hugo een zeer moeilijk programma om mee te werken, je frustreerd je er meer in dan dat het je je leven makkelijker maakt. Als je er dan toch in slaagt
+											   om je website aan de praat te krijgen op de manier die je wil, kan je prachtige dingen maken.
+    &lt;/div&gt;
+&lt;/section&gt;
+
+        &lt;!-- SERVICES --&gt;
+&lt;section id=&#34;services&#34;class=&#34;bg-primary&#34;&gt;
+    &lt;div class=&#34;container&#34;&gt;
+        &lt;div class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col-lg-12 text-center&#34;&gt;
+                &lt;h2 class=&#34;section-heading&#34;&gt;Vergelijking met Wordpress&lt;/h2&gt;
+                &lt;hr class=&#34;light&#34;&gt;
+				&lt;h4 class=&#34;text-justify text-faded&#34;&gt;Ik ken Wordpress niet heel goed, maar ik heb er even met gewerkt en ik moet zeggen dat Wordpress het op sommige delen beter doet dan Hugo. &lt;/br&gt;
+				Om te beginnen heeft Wordpress een webadmin panel i.p.v. dat je zoals bij Hugo opdrachtprompt nodig hebt om posts te maken, kan je dat bij Wordpress gewoon in je browser.
+				Wordpress is wel veel gelimiteerder in layout verzorging, waarin Hugo wel uitblinkt. Over de documentatie kun je bij Hugo niet veel zeggen, want de documentatie is gewoon slecht. Wordpress heeft een betere
+				maar ik vind zelfs dat je geen documentatie nodig hebt voor Wordpress. Ik persoonlijk zou niet meer met Hugo willen werken maar voor mijn GIP zal het wel moeten dus &lt;a class=&#34;text-muted&#34;href=&#34;http://gohugo.io/&#34;&gt;Go Hugo&lt;/a&gt;!&lt;/h4&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+
+
+
+
+        &lt;!-- Portfolio Modals --&gt;
+
+
+        &lt;!-- jQuery --&gt;
+&lt;script src=&#34;http://localhost:1313/js/jquery.js&#34;&gt;&lt;/script&gt;
+&lt;!-- Bootstrap Core JavaScript --&gt;
+&lt;script src=&#34;http://localhost:1313/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+&lt;!-- Plugin JavaScript --&gt;
+&lt;script src=&#34;http://localhost:1313/js/jquery.easing.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://localhost:1313/js/jquery.fittext.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://localhost:1313/js/wow.min.js&#34;&gt;&lt;/script&gt;
+&lt;!-- Custom Theme JavaScript --&gt;
+&lt;script src=&#34;http://localhost:1313/js/creative.js&#34;&gt;&lt;/script&gt;
+
+    &lt;script data-no-instant&gt;document.write(&#39;&lt;script src=&#34;http://&#39;
+        + (location.host || &#39;localhost&#39;).split(&#39;:&#39;)[0]
+		+ &#39;:1313/livereload.js?mindelay=10&#34;&gt;&lt;/&#39;
+        + &#39;script&gt;&#39;)&lt;/script&gt;&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://nicolas-helsen.github.io:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nicolas-helsen.github.io:1313/about/</guid>
       <description>&lt;p&gt;#Hello
 HEyy&lt;/p&gt;
 </description>
@@ -47,10 +204,10 @@ HEyy&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/english/Autobiography/</link>
+      <link>http://nicolas-helsen.github.io:1313/english/Autobiography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/Autobiography/</guid>
+      <guid>http://nicolas-helsen.github.io:1313/english/Autobiography/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en-us&#34;&gt;
     &lt;head&gt;
@@ -140,7 +297,7 @@ HEyy&lt;/p&gt;
     &lt;div class=&#34;container&#34;&gt;
         &lt;div class=&#34;row&#34;&gt;
             &lt;div class=&#34;col-lg-8 col-lg-offset-2 text-center&#34;&gt;
-                &lt;h1 class=&#34;section-heading&#34;&gt;More about me!&lt;/h1&gt;
+                &lt;h1 class=&#34;section-heading&#34;&gt;Meer over mij!&lt;/h1&gt;
                 &lt;hr class=&#34;light&#34;&gt;
 				&lt;/br&gt;
 				&lt;/br&gt;
