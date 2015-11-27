@@ -22,7 +22,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/english/Autobiography/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url>
   
   <url>
@@ -30,7 +30,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/english/Autobiography/</loc>
   </url>
   
 </urlset>
